@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "COMMENTS": 2,
+        "NUM_MENU_ITEMS": 0,
+        "POSTS": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hblauzvern@gmail.com",
+    "longName": "GameDeals",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "GameDeals",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2aa809a7-073a-4c14-823f-9965c7c7c6ec",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
